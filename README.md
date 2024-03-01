@@ -1,2 +1,2 @@
 # LcsNodes-ServoExtension
-An extension board for the LcsNodes Controller Boards
+A servo extension board for the LcsNodes Controller Boards
